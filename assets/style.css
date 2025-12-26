@@ -8,7 +8,26 @@
 /* global styles */
 
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap");
-header {
+header .row {
   background: url("https://codeinstitute.s3.eu-west-1.amazonaws.com/Bootstrap/background.webp")
     no-repeat 50% 85% / cover;
+}
+nav {
+  background-color: #dbdcde;
+}
+html body {
+  background-color: #a4c2d1;
+}
+.container {
+  background-color: #dbdcde;
+}
+
+#portfolio .card-title {
+  color: #1f7798;
+}
+#portfolio .btn-outline-secondary:hover {
+  background-color: #1f7798;
+}
+.no-rounded {
+  border-radius: 0 !important;
 }

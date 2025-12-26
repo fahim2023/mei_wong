@@ -1,0 +1,42 @@
+body {
+  background-color: #a4c2d1;
+}
+
+header .row {
+  background: url("...") no-repeat 50% 85%/cover;
+  min-height: 400px;
+  padding: 4rem 0;
+}
+
+.navbar {
+  background-color: #dbdcde !important;
+}
+
+#portfolio .card-title {
+  color: #1f7798;
+}
+#portfolio .btn-outline-secondary:hover {
+  background-color: #1f7798;
+}
+
+.btn-primary {
+  background-color: #1f7798;
+  border: #1f7798;
+}
+.btn-primary:hover {
+  background-color: #1d6d8a;
+}
+
+#about,
+footer {
+  background-color: white;
+}
+
+#portfolio {
+  background-color: #dbdcde;
+}
+
+h1,
+h2 {
+  color: #184f63;
+}
